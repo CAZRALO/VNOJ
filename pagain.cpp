@@ -9,14 +9,6 @@ using namespace std;
  
 #define CAZRALO_BO signed main(signed argc, char *argv[])
 
-# pragma GCC target("avx")
-# pragma GCC target("avx2")
-# pragma GCC target("fma")
-# pragma GCC optimize("Os")
-# pragma GCC optimize("Ofast")
-# pragma GCC optimization ("03")
-# pragma GCC optimization ("unroll-loops")
-
 int power(int x, int y, int p) {
 	int res=1;
 	x%=p;
