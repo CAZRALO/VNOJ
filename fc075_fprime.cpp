@@ -1,21 +1,4 @@
-#include <iostream>
-#include <cstring>
-#include <algorithm>
-#include <cmath>
-#include <bitset>
-#include <vector>
-#include <queue>
-#include <deque>
-#include <iomanip>
-#include <stack>
-#include <set>
-#include <map>
-#include <cstdio>
-#include <climits>
-#include <sstream>
-#include <complex>
-#include <chrono>
-#include <random>
+#include <bits/stdc++.h>
 
 using namespace std;
 
